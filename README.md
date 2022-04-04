@@ -12,7 +12,7 @@
 <div align="center">
     <!-- Logo & github link -->
   <a href="https://github.com/mrprogdev/opensea-blockchain-clone">
-    <img src="images/opensea.png" alt="Logo" width="80" height="80">
+    <img src="assets/opensea.png" alt="Logo" width="80" height="80">
   </a>
 
 <!-- Title -->
@@ -89,4 +89,4 @@ A simple frontend clone of opensea.io website using next.js & tailwindcss.
 [license-url]: https://github.com/mrprogdev/opensea-blockchain-clone/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mrprogdev
-[product-screenshot]: assets/opensea-clone.png
+[product-screenshot]: assets/opensea-clone.PNG
